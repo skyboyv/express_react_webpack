@@ -1,0 +1,14 @@
+.logo {
+    width: 31px;
+    height: 31px;
+    background-image: url("https://gw.alipayobjects.com/zos/rmsportal/tXlLQhLvkEelMstLyHiN.svg");
+    background-size: 100% 100%;
+    margin: 16px 28px 16px 0;
+    float: left;
+}
+
+p {
+    color: white;
+    float: left;
+    font-size: large;
+}

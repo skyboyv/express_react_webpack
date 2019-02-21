@@ -1,0 +1,15 @@
+.login-form {
+    position: absolute;
+    margin-left:40%;
+    margin-top: 10%;
+}
+.ant-input {
+    width: 300px;
+}
+
+/*.login-form-forgot {*/
+    /*float: right;*/
+/*}*/
+.login-form-button {
+    width: 300px;
+}
